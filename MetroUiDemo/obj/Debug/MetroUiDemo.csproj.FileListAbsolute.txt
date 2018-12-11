@@ -1,0 +1,12 @@
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\bin\Debug\MetroUiDemo.exe.config
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\bin\Debug\MetroUiDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\bin\Debug\MetroUiDemo.pdb
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\bin\Debug\MetroFramework.Design.dll
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\bin\Debug\MetroFramework.dll
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\obj\Debug\MetroUiDemo.Properties.Resources.resources
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\obj\Debug\MetroUiDemo.csproj.GenerateResource.Cache
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\obj\Debug\MetroUiDemo.csproj.CoreCompileInputs.cache
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\obj\Debug\MetroUiDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\obj\Debug\MetroUiDemo.pdb
+C:\Users\SaLaaR HuSyN\source\repos\MetroUiDemo\MetroUiDemo\obj\Debug\MetroUiDemo.Form1.resources
